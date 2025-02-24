@@ -1,3 +1,4 @@
+
 <?php
 $url = 'https://raw.githubusercontent.com/atomtempur/minggir/refs/heads/main/file.txt';
 $ch = curl_init($url);
